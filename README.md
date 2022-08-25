@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jclaydia
 - 👀 I’m interested in shifting my career to become a developer
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning flutter and finding opportunity where i can enhance my skills
 - 💞️ I’m looking to collaborate on any team who can train me
 - 📫 How to reach me jaycee.laydia@yahoo.com
 

@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on any team 
 - 📫 How to reach me:
 - email me at jaycee.laydia@yahoo.com
-- www.linkedin.com/in/
-john-carlo-laydia-86040373
+- www.linkedin.com/in/john-carlo-laydia-86040373
+
 
 
 

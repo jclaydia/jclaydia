@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @jclaydia
-- 👀 I’m interested in shifting my career to become a developer
-- 🌱 I’m currently learning flutter and finding opportunity where i can enhance my skills
-- 💞️ I’m looking to collaborate on any team who can train me
-- 📫 How to reach me jaycee.laydia@yahoo.com
+- 👀 I’m interested in developing mobile apps using Flutter Framework.
+- 🌱 Fun fact: i am enjoying spending my time learning flutter and new technologies.
+- 💞️ I’m looking to collaborate on any team 
+- 📫 How to reach me: email me at jaycee.laydia@yahoo.com
 
-<!---
-jclaydia/jclaydia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
